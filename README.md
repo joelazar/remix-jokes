@@ -9,7 +9,7 @@ From your terminal:
 ```sh
 npm install
 npx prisma db push
-npx prisma seed
+npx prisma db seed
 npm run dev
 ```
 
